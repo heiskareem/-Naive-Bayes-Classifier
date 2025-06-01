@@ -72,7 +72,7 @@ Used to handle unseen words:
 ## 📂 Structure
 ```
 📁 naive-bayes-spam-classifier
-├── naive_bayes.py           # Python implementation
+├── naive_bayes.ipynb           # Python implementation
 ├── naive_bayes.cpp          # C++ implementation
 └── README.md                # This file
 ```
