@@ -97,5 +97,5 @@ This project is licensed under the MIT License.
 ---
 
 ## 💡 Author
-KareemShaik.com
+[KareemShaik.com](https://kareemshaik.com/)
 
